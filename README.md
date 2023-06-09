@@ -37,3 +37,4 @@ In the `main.jl` file, a short demo is given for a parameter estimation problem.
 ## TODO
 
  - [ ] Add regularization option
+ - [ ] Run ensemble members in parallel
